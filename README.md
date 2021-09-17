@@ -2,9 +2,13 @@
 
 A tool to find residental proxies with help of 
 
-``` https://ip.ac ```
+``` 
+https://ip.ac 
+```
 
 ## Usage
 Just make text file named :
-```proxy.txt```
+```
+proxy.txt
+```
 then run script! :D 
