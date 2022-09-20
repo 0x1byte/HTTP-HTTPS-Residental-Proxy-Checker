@@ -1,14 +1,9 @@
-# Python3-HTTP-HTTPS-Residental-Proxy-Checker 
+# Python3-HTTP-HTTPS-Residential-Proxy-Checker 
 
-A tool to find residental proxies with help of 
+A tool to find residential proxies with help of 
 
 ``` 
-https://ip.ac 
+https://ipx.ac 
 ```
 
-## Usage
-Just make text file named :
-```
-proxy.txt
-```
-then run script! :D 
+Just run the script! :D 
